@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T22:10:10.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zg5vw4mEmKuef6P525oA" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T08:13:10.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Jmw8lMVB3GE-3zWdiRiB" version="24.0.2" type="github" pages="3">
   <diagram name="Page-1" id="ilkN2TOa1lTFrM64he_S">
     <mxGraphModel dx="1221" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,23 +55,229 @@
         <mxCell id="zt4tbmcjYhXW2zwYY23l-14" value="I am online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zt4tbmcjYhXW2zwYY23l-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zt4tbmcjYhXW2zwYY23l-11">
+        <mxCell id="zt4tbmcjYhXW2zwYY23l-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="553" y="141" as="sourcePoint" />
-            <mxPoint x="530" y="350" as="targetPoint" />
+            <mxPoint x="548.25" y="213" as="sourcePoint" />
+            <mxPoint x="664.75" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zt4tbmcjYhXW2zwYY23l-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zt4tbmcjYhXW2zwYY23l-12">
+        <mxCell id="zt4tbmcjYhXW2zwYY23l-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="553" y="160" as="sourcePoint" />
-            <mxPoint x="650" y="340" as="targetPoint" />
+            <mxPoint x="548.25" y="232" as="sourcePoint" />
+            <mxPoint x="794.75" y="232" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zt4tbmcjYhXW2zwYY23l-17" value="A is online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="108" width="80" height="30" as="geometry" />
+          <mxGeometry x="545.25" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zt4tbmcjYhXW2zwYY23l-18" value="A is online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="685.25" y="202" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zt4tbmcjYhXW2zwYY23l-19" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="150" as="sourcePoint" />
+            <mxPoint x="549" y="177" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="150" />
+              <mxPoint x="600" y="177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zt4tbmcjYhXW2zwYY23l-20" value="find who has A as friends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536" y="124" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tDUKfz1rkLcAVnYIUKIZ" name="Page-2">
+    <mxGraphModel dx="2071" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-1" value="Chat Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;B&lt;/div&gt;" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-4" value="Online State Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="a4ogaU_4-C4EKerYE5Ct-1" target="a4ogaU_4-C4EKerYE5Ct-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" source="a4ogaU_4-C4EKerYE5Ct-1" target="a4ogaU_4-C4EKerYE5Ct-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="210" as="sourcePoint" />
+            <mxPoint x="140" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4ogaU_4-C4EKerYE5Ct-7" target="a4ogaU_4-C4EKerYE5Ct-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-7" value="Sweeper Job" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a4ogaU_4-C4EKerYE5Ct-7" target="a4ogaU_4-C4EKerYE5Ct-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-9" value="Scans for inactive users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="368" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1" target="a4ogaU_4-C4EKerYE5Ct-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="220" as="sourcePoint" />
+            <mxPoint x="140" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-11" value="periodically checks online status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a4ogaU_4-C4EKerYE5Ct-12" target="a4ogaU_4-C4EKerYE5Ct-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-12" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-14" value="Triggers the sweeper job at a fixed interval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4ogaU_4-C4EKerYE5Ct-16" value="Notifies Chat Service of state changes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="200" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mMqAYTZd2E4vrzMF0KlP" name="Page-3">
+    <mxGraphModel dx="2071" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-1" value="A" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-2" value="B" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-3" value="Chat" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="100" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="EJ-98-mXW7qo6KavMf1n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252" y="143" as="sourcePoint" />
+            <mxPoint x="310" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-5" value="09:00 I&#39;m online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-7" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EJ-98-mXW7qo6KavMf1n-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="520" as="sourcePoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="165" as="sourcePoint" />
+            <mxPoint x="540" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-10" value="B Last seen at 09:00" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-13" value="09:30 B closes app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-15" value="10:00 opens up B&#39;s chat window" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="EJ-98-mXW7qo6KavMf1n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114" y="371" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101" y="199" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-19" value="09:05 A goes online&lt;div&gt;what&#39;s the status of everyone?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530.5" y="236" as="sourcePoint" />
+            <mxPoint x="400" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-21" value="B was seen 60 minutes ago, so I need to check again" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="EJ-98-mXW7qo6KavMf1n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="250" as="sourcePoint" />
+            <mxPoint x="260" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-26" value="09:05 B is online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="218" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-27" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;size=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-28" value="what&#39;s B&#39;s status now?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-29" value="B was seen 5 minutes ago, so B is considered online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="EJ-98-mXW7qo6KavMf1n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="420" as="sourcePoint" />
+            <mxPoint x="490" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="EJ-98-mXW7qo6KavMf1n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="500" as="sourcePoint" />
+            <mxPoint x="310" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-33" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;size=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-35" value="can&#39;t find B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="EJ-98-mXW7qo6KavMf1n-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="490" as="sourcePoint" />
+            <mxPoint x="100" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-37" value="10:00 B is offline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="460" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-41" value="&lt;div&gt;09:05 ~ 10:00&lt;/div&gt;A sees B as online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EJ-98-mXW7qo6KavMf1n-43" value="10:00 ~&lt;div&gt;A sees B is offline&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
